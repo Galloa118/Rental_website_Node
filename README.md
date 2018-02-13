@@ -1,5 +1,5 @@
 # car-rental-website
-IT440 - Group 7 project
+Spring 2018 - IT440 - Group 7 project
 
 Members: 
   * Hana Do
