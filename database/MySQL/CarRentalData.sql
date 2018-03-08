@@ -35,7 +35,8 @@ DROP FOREIGN KEY issue_us_ibfk_1,
 DROP FOREIGN KEY issue_us_ibfk_2;
 
 ALTER TABLE issue_intl
-DROP FOREIGN KEY issue_intl_ibfk_1;
+DROP FOREIGN KEY issue_intl_ibfk_1,
+DROP FOREIGN KEY issue_intl_ibfk_2;
 
 ALTER TABLE location
 DROP FOREIGN KEY location_ibfk_1,
@@ -123,7 +124,7 @@ CREATE TABLE card (
 	Exp_Month INT NOT NULL,
 	Exp_Year INT NOT NULL,
 	Card_Num INT NOT NULL,
-	Billing_StrAdd VARCHAR(100) NOT NULL,
+	Billing_StrAdd VARCHAR(100),
 	Cust_ID INT NOT NULL,
 	Loc_ID INT NOT NULL,
 	PRIMARY KEY (Card_ID)
@@ -183,7 +184,7 @@ CREATE TABLE issue_us (
 
 CREATE TABLE issue_intl (
 	Cust_ID INT NOT NULL,
-    Country VARCHAR(20) NOT NULL,
+    Country_ID INT NOT NULL,
     PRIMARY KEY (Cust_ID)
 );
 
@@ -262,7 +263,8 @@ ADD FOREIGN KEY (Cust_ID) REFERENCES customer (Cust_ID),
 ADD FOREIGN KEY (State_ID) REFERENCES state (State_ID);
 
 ALTER TABLE issue_intl
-ADD FOREIGN KEY (Cust_ID) REFERENCES customer (Cust_ID);
+ADD FOREIGN KEY (Cust_ID) REFERENCES customer (Cust_ID),
+ADD FOREIGN KEY (Country_ID) REFERENCES country (Country_ID);
 
 ALTER TABLE location
 ADD FOREIGN KEY (State_ID) REFERENCES state (State_ID),
