@@ -11,7 +11,8 @@ DROP FOREIGN KEY car_ibfk_2,
 DROP FOREIGN KEY car_ibfk_3;
 
 ALTER TABLE car_spec
-DROP FOREIGN KEY car_spec_ibfk_1;
+DROP FOREIGN KEY car_spec_ibfk_1,
+DROP FOREIGN KEY car_spec_ibfk_2;
 
 ALTER TABLE card
 DROP FOREIGN KEY card_ibfk_1,
@@ -56,6 +57,7 @@ DROP FOREIGN KEY other_payment_ibfk_1;
 DROP TABLE IF EXISTS booking;
 DROP TABLE IF EXISTS booking_line;
 DROP TABLE IF EXISTS car;
+DROP TABLE IF EXISTS car_make;
 DROP TABLE IF EXISTS car_spec;
 DROP TABLE IF EXISTS car_state;
 DROP TABLE IF EXISTS car_type;
@@ -103,9 +105,15 @@ CREATE TABLE car (
     PRIMARY KEY (Car_ID)
 );
 
+CREATE TABLE car_make (
+	CarMake_ID INT NOT NULL,
+    Description VARCHAR(100) NOT NULL,
+    PRIMARY KEY (CarMake_ID)
+);
+
 CREATE TABLE car_spec (
 	Spec_ID INT NOT NULL,
-    Brand VARCHAR(20) NOT NULL,
+    CarMake_ID VARCHAR(20) NOT NULL,
     Color VARCHAR(20) NOT NULL,
     Model VARCHAR(20) NOT NULL,
     Prod_Year INT NOT NULL,
@@ -117,6 +125,12 @@ CREATE TABLE car_state (
 	CarState_ID INT NOT NULL,
     Description VARCHAR(100) NOT NULL,
     PRIMARY KEY (CarState_ID)
+);
+
+CREATE TABLE car_type (
+	CarType_ID INT NOT NULL,
+    Description VARCHAR(100) NOT NULL,
+    PRIMARY KEY (CarType_ID)
 );
 
 CREATE TABLE card (
@@ -239,7 +253,8 @@ ADD FOREIGN KEY (Office_ID) REFERENCES office (Office_ID),
 ADD FOREIGN KEY (CarState_ID) REFERENCES car_state (CarState_ID);
 
 ALTER TABLE car_spec
-ADD FOREIGN KEY (CarType_ID) REFERENCES car_type (CarType_ID);
+ADD FOREIGN KEY (CarType_ID) REFERENCES car_type (CarType_ID),
+ADD FOREIGN KEY (CarMake_ID) REFERENCES car_make (CarMake_ID);
 
 ALTER TABLE card
 ADD FOREIGN KEY (Cust_ID) REFERENCES customer (Cust_ID),
