@@ -1,7 +1,7 @@
 from converter import *
 
 setup_workbook(
-  path=r'C:\Users\pj6526bw\Documents\car-rental\database\fake data\full test data.xls',
+  path=r'M:\My_Private_Files\car-rental\database\fake data\full test data.xls',
   sht_list=['booking', 'booking_line', 'car', 'car_make', 'car_spec', 'car_state', 'car_type', 'card', 'card_payment', 'customer', 'customer_type', 'office', 'rental_price']
 )
 
@@ -18,5 +18,8 @@ cars_spec = cars.get_carspec(
 )
 cars_state = cars.get_carstate(states=['Excellent', 'Good', 'Average'])
 
-cust = customer()
-print(cust.get_customer())
+offices = office(
+  path='offices.csv',
+  columns=['Office_StrAdd', 'Office_City', 'Office_State', 'Office_Zip', 'Office_Phone', 'Office_Username', 'Office_Password']
+)
+print(offices.get_offices())

@@ -53,19 +53,20 @@ class customer(object):
 
   def get_customer(self):
     customer_df = pd.DataFrame({
-      'Cust_Name': list(self.get_fullname()),
-      'Cust_Phone': list(self.get_phone()),
-      'Cust_Email': list(self.get_email()),
-      'Cust_Gender': list(self.get_gender()),
-      'Cust_LicenseNum': list(self.get_license_num()),
-      'Cust_IssueLocation': list(self.get_license_state()),
-      'Cust_DOB': list(self.get_dob()),
-      'Cust_StrAdd': list(self.get_stradd()),
-      'Cust_City': list(self.get_city()),
-      'Cust_State': list(self.get_state()),
-      'Cust_Zip': list(self.get_zip()),
-      'Cust_Username': list(self.get_username()),
-      'Cust_Password': list(self.get_password())
+      'Cust_Name': [self.get_fullname()],
+      'Cust_Phone': [self.get_phone()],
+      'Cust_Email': [self.get_email()],
+      'Cust_Gender': [self.get_gender()],
+      'Cust_LicenseNum': [self.get_license_num()],
+      'Cust_IssueLocation': [self.get_license_state()],
+      'Cust_DOB': [self.get_dob()],
+      'Cust_StrAdd': [self.get_stradd()],
+      'Cust_City': [self.get_city()],
+      'Cust_State': [self.get_state()],
+      'Cust_Zip': [self.get_zip()],
+      'Cust_Username': [self.get_username()],
+      'Cust_Password': [self.get_password()],
+      'CustType_ID': [self.assign_custtypeid()]
     })
     customer_df.index.name = 'Cust_ID'
     return customer_df
@@ -129,5 +130,26 @@ class customer(object):
     cust_type = types
     cust_type_df = pd.DataFrame([x for x in range(len(cust_type))], index=cust_type, columns=['CustType_ID'])
     cust_type_df.index.name = 'Type'
+    cust_type_df['Multiplier'] = [0.9, 1, 1.1]
     return cust_type_df
 
+  def assign_custtypeid(self):
+    custtype_dict = self.get_custtype().to_dict('index')
+    prob = random()
+    if prob < 0.2:
+      return custtype_dict['VIP']['CustType_ID']
+    elif prob < 0.7:
+      return custtype_dict['Normal']['CustType_ID']
+    else:
+      return custtype_dict['With violations']['CustType_ID']
+
+class office(object):
+  def __init__(self, path, columns):
+    self.offices_data = pd.read_csv(path)
+    self.offices_columns = columns
+    
+  def get_offices(self):
+    offices = self.offices_data.iloc[:, :]
+    offices_df = pd.DataFrame([x for x in range(len(offices))], index=offices,columns=self.offices_columns)
+    offices_df.index.name = 'Office_ID'
+    return offices_df
