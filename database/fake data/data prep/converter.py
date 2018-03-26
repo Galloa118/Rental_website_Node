@@ -16,7 +16,7 @@ def setup_workbook(path, sht_list):
   for sht in sht_list:
     wb.sheets.add(sht)
 
-class cars(object):
+class Cars(object):
   def __init__(self, path, columns):
     self.cars_data = pd.read_csv(path)
     self.cars_columns = columns
@@ -46,12 +46,29 @@ class cars(object):
     cars_state_df.index.name = 'State'
     return cars_state_df
 
-class customer(object):
+class Customer(object):
   def __init__(self):
-    page = requests.get('https://www.fakeaddressgenerator.com/World_Address/get_us_address')
-    self.content = html.fromstring(page.content)
+    self.customer_df = pd.DataFrame({
+      'Cust_Name': [],
+      'Cust_Phone': [],
+      'Cust_Email': [],
+      'Cust_Gender': [],
+      'Cust_LicenseNum': [],
+      'Cust_IssueLocation': [],
+      'Cust_DOB': [],
+      'Cust_StrAdd': [],
+      'Cust_City': [],
+      'Cust_State': [],
+      'Cust_Zip': [],
+      'Cust_Username': [],
+      'Cust_Password': [],
+      'CustType_ID': []
+    })
+    self.customer_df.index.name = 'Cust_ID'
 
   def get_customer(self):
+    page = requests.get('https://www.fakeaddressgenerator.com/World_Address/get_us_address')
+    self.content = html.fromstring(page.content)
     customer_df = pd.DataFrame({
       'Cust_Name': [self.get_fullname()],
       'Cust_Phone': [self.get_phone()],
@@ -69,7 +86,7 @@ class customer(object):
       'CustType_ID': [self.assign_custtypeid()]
     })
     customer_df.index.name = 'Cust_ID'
-    return customer_df
+    return self.customer_df.append(customer_df)
 
   def get_fullname(self):
     full_name = self.content.xpath('//*[text()="Full Name"]/parent::div/following-sibling::div[1]/strong/input/@value')
@@ -143,13 +160,13 @@ class customer(object):
     else:
       return custtype_dict['With violations']['CustType_ID']
 
-class office(object):
+class Office(object):
   def __init__(self, path, columns):
     self.offices_data = pd.read_csv(path)
     self.offices_columns = columns
     
   def get_offices(self):
     offices = self.offices_data.iloc[:, :]
-    offices_df = pd.DataFrame([x for x in range(len(offices))], index=offices,columns=self.offices_columns)
+    offices_df = pd.DataFrame(offices, index=[x for x in range(len(offices))],columns=self.offices_columns)
     offices_df.index.name = 'Office_ID'
     return offices_df
