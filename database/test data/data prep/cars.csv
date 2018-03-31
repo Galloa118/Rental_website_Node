@@ -1,0 +1,176 @@
+CarMake,CarType,Model,Prod_Year,Image_URL,Seats,Cruise_Control,Air_Conditioning,Parking_Sensor,Heated_Seats,Audio_Input,Bluetooth,Sunroof,Price_Bought
+alfa romeo,suv,stelvio,2017,http://www.cars-data.com/pictures/thumbs/350px/alfa-romeo/alfa-romeo-stelvio_3699_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,63025
+audi,convertible,a5-cabriolet,2017,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a5-cabriolet_3727_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,73310
+audi,coupe,a5-sportback,2017,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a5-sportback_3725_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,54810
+audi,hatchback,a5-sportback,2017,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a5-sportback_3722_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,72440
+audi,suv,q5,2017,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-q5_3735_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,92680
+audi,convertible,s5-cabriolet,2017,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s5-cabriolet_3728_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,90270
+audi,hatchback,s5-sportback,2017,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s5-sportback_3723_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,80920
+bentley,sedan,mulsanne,2017,http://www.cars-data.com/pictures/thumbs/350px/bentley/bentley-mulsanne_3741_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,454499
+bmw,convertible,4-serie-cabrio,2017,http://www.cars-data.com/pictures/thumbs/350px/bmw/bmw-4-serie-cabrio_3746_1.jpg,4,YES,YES,YES,YES,YES,YES,YES,86023
+bmw,coupe,4-serie-coupe,2017,http://www.cars-data.com/pictures/thumbs/350px/bmw/bmw-4-serie-coupe_3745_1.jpg,4,YES,YES,YES,YES,YES,YES,YES,76409
+bmw,hatchback,4-serie-gran-coupe,2017,http://www.cars-data.com/pictures/thumbs/350px/bmw/bmw-4-serie-gran-coupe_3744_1.jpg,4,YES,YES,YES,YES,YES,YES,YES,77604
+bmw,sedan,5-serie,2017,http://www.cars-data.com/pictures/thumbs/350px/bmw/bmw-5-serie_3747_1.jpg,5,YES,YES,YES,YES,YES,YES,YES,76848
+bmw,wagon,5-serie-touring,2017,http://www.cars-data.com/pictures/thumbs/350px/bmw/bmw-5-serie-touring_3749_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,80890
+cadillac,suv,xt5,2017,http://www.cars-data.com/pictures/thumbs/350px/cadillac/cadillac-xt5_3754_1.jpg,7,YES,YES,YES,YES,YES,YES,YES,111200
+fiat,hatchback,tipo,2017,http://www.cars-data.com/pictures/thumbs/350px/fiat/fiat-tipo_3799_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,26285
+fiat,wagon,tipo-stationwagon,2017,http://www.cars-data.com/pictures/thumbs/350px/fiat/fiat-tipo-stationwagon_3801_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,27285
+ford,hatchback,fiesta,2017,http://www.cars-data.com/pictures/thumbs/350px/ford/ford-fiesta_3803_1.jpg,5,YES,YES,NO,NO,YES,YES,NO,19595
+ford,hatchback,fiesta,2017,http://www.cars-data.com/pictures/thumbs/350px/ford/ford-fiesta_3805_1.jpg,5,YES,YES,NO,NO,YES,YES,NO,20095
+honda,hatchback,civic,2017,http://www.cars-data.com/pictures/thumbs/350px/honda/honda-civic_3825_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,38480
+hyundai,hatchback,i10,2017,http://www.cars-data.com/pictures/thumbs/350px/hyundai/hyundai-i10_3833_1.jpg,4,YES,YES,NO,YES,YES,YES,NO,14609
+hyundai,hatchback,i30,2017,http://www.cars-data.com/pictures/thumbs/350px/hyundai/hyundai-i30_3834_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,32695
+jaguar,convertible,f-type-convertible,2017,http://www.cars-data.com/pictures/thumbs/350px/jaguar/jaguar-f-type-convertible_3610_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,210370
+jaguar,coupe,f-type-coupe,2017,http://www.cars-data.com/pictures/thumbs/350px/jaguar/jaguar-f-type-coupe_3609_1.jpg,2,YES,YES,YES,YES,YES,YES,YES,203170
+kia,hatchback,picanto,2017,http://www.cars-data.com/pictures/thumbs/350px/kia/kia-picanto_3842_1.jpg,5,YES,YES,NO,NO,YES,YES,NO,19040
+kia,hatchback,rio,2017,http://www.cars-data.com/pictures/thumbs/350px/kia/kia-rio_3843_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,21685
+lexus,sedan,is,2017,http://www.cars-data.com/pictures/thumbs/350px/lexus/lexus-is_3621_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,52755
+mazda,suv,cx-5,2017,http://www.cars-data.com/pictures/thumbs/350px/mazda/mazda-cx-5_3863_1.jpg,5,YES,YES,YES,YES,YES,YES,YES,53050
+mazda,convertible,mx-5-rf,2017,http://www.cars-data.com/pictures/thumbs/350px/mazda/mazda-mx-5-rf_3864_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,43990
+mercedes benz,wagon,e-class-all-terrain,2017,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-e-class-all-terrain_3884_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,73917
+mercedes benz,coupe,e-class-coupe,2017,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-e-class-coupe_3888_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,59806
+mercedes benz,hatchback,gla-class,2017,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-gla-class_3892_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,54297
+mini,suv,countryman,2017,http://www.cars-data.com/pictures/thumbs/350px/mini/mini-countryman_3626_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,47974
+nissan,hatchback,micra,2017,http://www.cars-data.com/pictures/thumbs/350px/nissan/nissan-micra_3931_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,21840
+opel,suv,crossland-x,2017,http://www.cars-data.com/pictures/thumbs/350px/opel/opel-crossland-x_3953_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,27804
+opel,hatchback,insignia-grand-sport,2017,http://www.cars-data.com/pictures/thumbs/350px/opel/opel-insignia-grand-sport_3954_1.jpg,5,YES,YES,YES,NO,YES,YES,YES,41750
+opel,wagon,insignia-sports-tourer,2017,http://www.cars-data.com/pictures/thumbs/350px/opel/opel-insignia-sports-tourer_3955_1.jpg,5,YES,YES,YES,NO,YES,YES,YES,43250
+opel,hatchback,karl-rocks,2017,http://www.cars-data.com/pictures/thumbs/350px/opel/opel-karl-rocks_3956_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,14949
+peugeot,mpv,5008,2017,http://www.cars-data.com/pictures/thumbs/350px/peugeot/peugeot-5008_3967_1.jpg,7,YES,YES,YES,NO,YES,YES,NO,45000
+seat,hatchback,leon,2017,http://www.cars-data.com/pictures/thumbs/350px/seat/seat-leon_4023_1.jpg,5,YES,YES,NO,NO,YES,NO,NO,21360
+seat,hatchback,leon-sc,2017,http://www.cars-data.com/pictures/thumbs/350px/seat/seat-leon-sc_4022_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,37360
+seat,wagon,leon-st,2017,http://www.cars-data.com/pictures/thumbs/350px/seat/seat-leon-st_4025_1.jpg,5,YES,YES,NO,NO,YES,NO,NO,22110
+skoda,suv,kodiaq,2017,http://www.cars-data.com/pictures/thumbs/350px/skoda/skoda-kodiaq_4029_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,48725
+skoda,hatchback,octavia,2017,http://www.cars-data.com/pictures/thumbs/350px/skoda/skoda-octavia_4030_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,34790
+skoda,wagon,octavia-combi,2017,http://www.cars-data.com/pictures/thumbs/350px/skoda/skoda-octavia-combi_4031_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,35690
+subaru,coupe,brz,2017,http://www.cars-data.com/pictures/thumbs/350px/subaru/subaru-brz_3658_1.jpg,4,YES,YES,NO,YES,YES,YES,NO,50490
+suzuki,hatchback,swift,2017,http://www.cars-data.com/pictures/thumbs/350px/suzuki/suzuki-swift_4051_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,21209
+toyota,hatchback,prius-plug-in-hybrid,2017,http://www.cars-data.com/pictures/thumbs/350px/toyota/toyota-prius-plug-in-hybrid_4077_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,36910
+toyota,hatchback,yaris,2017,http://www.cars-data.com/pictures/thumbs/350px/toyota/toyota-yaris_4093_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,24175
+volkswagen,hatchback,e-golf,2017,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-e-golf_4096_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,37900
+volkswagen,hatchback,golf,2017,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-golf_4094_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,42120
+volkswagen,hatchback,golf,2017,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-golf_4098_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,21920
+volkswagen,wagon,golf-variant,2017,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-golf-variant_4100_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,23020
+volvo,wagon,v90-cross-country,2017,http://www.cars-data.com/pictures/thumbs/350px/volvo/volvo-v90-cross-country_4113_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,78515
+volvo,suv,xc60,2017,http://www.cars-data.com/pictures/thumbs/350px/volvo/volvo-xc60_4114_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,72415
+abarth,convertible,124-spider,2016,http://www.cars-data.com/pictures/thumbs/350px/abarth/abarth-124-spider_3560_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,49160
+abarth,convertible,124-spider,2016,http://www.cars-data.com/pictures/thumbs/350px/fiat/fiat-124-spider_3591_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,37665
+abarth,hatchback,595,2016,http://www.cars-data.com/pictures/thumbs/350px/abarth/abarth-595_3561_1.jpg,4,NO,YES,YES,NO,YES,YES,NO,34030
+abarth,hatchback,595-cabrio,2016,http://www.cars-data.com/pictures/thumbs/350px/abarth/abarth-595-cabrio_3562_1.jpg,4,NO,YES,YES,NO,YES,YES,YES,37030
+alfa romeo,sedan,giulia,2016,http://www.cars-data.com/pictures/thumbs/350px/alfa-romeo/alfa-romeo-giulia_3695_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,54850
+alfa romeo,hatchback,giulietta,2016,http://www.cars-data.com/pictures/thumbs/350px/alfa-romeo/alfa-romeo-giulietta_3401_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,23750
+alfa romeo,hatchback,mito,2016,http://www.cars-data.com/pictures/thumbs/350px/alfa-romeo/alfa-romeo-mito_3696_1.jpg,4,YES,YES,YES,NO,YES,YES,NO,17950
+aston martin,coupe,db11-coupe,2016,http://www.cars-data.com/pictures/thumbs/350px/aston-martin/aston-martin-db11-coupe_3563_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,271914
+audi,hatchback,a3,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a3_3704_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,26680
+audi,convertible,a3-cabriolet,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a3-cabriolet_3715_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,35930
+audi,sedan,a3-limousine,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a3-limousine_3711_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,28430
+audi,hatchback,a3-sportback,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a3-sportback_3706_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,27930
+audi,wagon,a4-allroad,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a4-allroad_3719_1.jpg,5,YES ,YES,YES ,YES,YES,YES,NO,70100
+audi,coupe,a5-coupe,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-a5-coupe_3724_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,44770
+audi,suv,q2,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-q2_3734_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,48130
+audi,coupe,r8,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-r8_3403_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,259070
+audi,coupe,r8-coupe,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-r8-coupe_3738_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,264560
+audi,coupe,r8-spyder,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-r8-spyder_3739_1.jpg,2,YES,YES,YES,YES,YES,YES,YES,249180
+audi,hatchback,s3,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s3_3705_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,53210
+audi,convertible,s3-cabriolet,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s3-cabriolet_3717_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,62460
+audi,sedan,s3-limousine,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s3-limousine_3713_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,54960
+audi,hatchback,s3-sportback,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s3-sportback_3709_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,54460
+audi,sedan,s4,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s4_3718_1.jpg,5,YES ,YES,YES ,YES,YES,YES,NO,79380
+audi,wagon,s4-avant,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s4-avant_3721_1.jpg,5,YES ,YES,YES ,YES,YES,YES,NO,81680
+audi,coupe,s5-coupe,2016,http://www.cars-data.com/pictures/thumbs/350px/audi/audi-s5-coupe_3726_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,79500
+bentley,sedan,bentayga,2016,http://www.cars-data.com/pictures/thumbs/350px/bentley/bentley-bentayga_3570_1.jpg,4,YES,YES,YES,YES,YES,YES,YES,286257
+bmw,hatchback,3-serie-gran-turismo,2016,http://www.cars-data.com/pictures/thumbs/350px/bmw/bmw-3-serie-gran-turismo_3742_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,75987
+citroen,hatchback,c3,2016,http://www.cars-data.com/pictures/thumbs/350px/citroen/citroen-c3_3766_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,21620
+citroen,mpv,c4-picasso,2016,http://www.cars-data.com/pictures/thumbs/350px/citroen/citroen-c4-picasso_3767_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,40290
+citroen,mpv,grand-c4-picasso,2016,http://www.cars-data.com/pictures/thumbs/350px/citroen/citroen-grand-c4-picasso_3768_1.jpg,7,YES,YES,YES,YES,YES,YES,NO,42290
+dacia,wagon,logan-mcv,2016,http://www.cars-data.com/pictures/thumbs/350px/dacia/dacia-logan-mcv_3583_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,16590
+dacia,hatchback,sandero,2016,http://www.cars-data.com/pictures/thumbs/350px/dacia/dacia-sandero_3584_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,14690
+ds,hatchback,3,2016,http://www.cars-data.com/pictures/thumbs/350px/ds/ds-3_3554_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,17890
+ds,hatchback,3,2016,http://www.cars-data.com/pictures/thumbs/350px/mazda/mazda-3_3852_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,36200
+ds,convertible,3-cabrio,2016,http://www.cars-data.com/pictures/thumbs/350px/ds/ds-3-cabrio_3556_1.jpg,5,YES,YES,YES,NO,YES,YES,YES,33990
+ferrari,coupe,gtc4,2016,http://www.cars-data.com/pictures/thumbs/350px/ferrari/ferrari-gtc4_3782_1.jpg,4,YES,YES,YES,NO,YES,YES,NO,373339
+fiat,convertible,124-spider,2016,http://www.cars-data.com/pictures/thumbs/350px/abarth/abarth-124-spider_3560_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,49160
+fiat,convertible,124-spider,2016,http://www.cars-data.com/pictures/thumbs/350px/fiat/fiat-124-spider_3591_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,37665
+fiat,pick-up,fullback-double-cab,2016,http://www.cars-data.com/pictures/thumbs/350px/fiat/fiat-fullback-double-cab_3789_1.jpg,4,YES,YES,NO,NO,YES,YES,NO,76829
+fiat,minivan,talento-combi,2016,http://www.cars-data.com/pictures/thumbs/350px/fiat/fiat-talento-combi_3798_1.jpg,9,NO,YES,NO,NO,YES,YES,NO,48962
+fiat,sedan,tipo,2016,http://www.cars-data.com/pictures/thumbs/350px/fiat/fiat-tipo_3800_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,23495
+ford,suv,edge,2016,http://www.cars-data.com/pictures/thumbs/350px/ford/ford-edge_3605_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,71065
+ford,hatchback,ka,2016,http://www.cars-data.com/pictures/thumbs/350px/ford/ford-ka_3811_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,13895
+ford,suv,kuga,2016,http://www.cars-data.com/pictures/thumbs/350px/ford/ford-kuga_3812_1.jpg,5,YES,YES,NO,NO,YES,NO,NO,27285
+hyundai,sedan,i40,2016,http://www.cars-data.com/pictures/thumbs/350px/hyundai/hyundai-i40_3835_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,30035
+hyundai,hatchback,ioniq,2016,http://www.cars-data.com/pictures/thumbs/350px/hyundai/hyundai-ioniq_3836_1.jpg,5,YES,YES,YES,YES,YES,YES,YES,35000
+hyundai,suv,santa-fe,2016,http://www.cars-data.com/pictures/thumbs/350px/hyundai/hyundai-santa-fe_3837_1.jpg,5,YES,YES,YES,YES,YES,YES,YES,67822
+infiniti,coupe,q60-coupe,2016,http://www.cars-data.com/pictures/thumbs/350px/infiniti/infiniti-q60-coupe_3607_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,94435
+infiniti,hatchback,qx30,2016,http://www.cars-data.com/pictures/thumbs/350px/infiniti/infiniti-qx30_3608_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,56935
+kia,mpv,carens,2016,http://www.cars-data.com/pictures/thumbs/350px/kia/kia-carens_3611_1.jpg,7,YES,YES,NO,NO,YES,YES,NO,26995
+kia,suv,niro,2016,http://www.cars-data.com/pictures/thumbs/350px/kia/kia-niro_3840_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,33095
+kia,wagon,optima-sw,2016,http://www.cars-data.com/pictures/thumbs/350px/kia/kia-optima-sw_3841_1.jpg,5,YES,YES,YES,YES,YES,YES,YES,43495
+kia,suv,sportage,2016,http://www.cars-data.com/pictures/thumbs/350px/kia/kia-sportage_3441_1.jpg,5,YES,YES,YES,YES,YES,YES,YES,43695
+land rover,suv,discovery,2016,http://www.cars-data.com/pictures/thumbs/350px/land-rover/land-rover-discovery_3851_1.jpg,5,YES,YES,YES,YES,YES,YES,YES,130360
+land rover,convertible,range-rover-evoque-convertible,2016,http://www.cars-data.com/pictures/thumbs/350px/land-rover/land-rover-range-rover-evoque-convertible_3449_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,77220
+lexus,sedan,gs,2016,http://www.cars-data.com/pictures/thumbs/350px/lexus/lexus-gs_3450_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,155495
+maserati,suv,levante,2016,http://www.cars-data.com/pictures/thumbs/350px/maserati/maserati-levante_3622_1.jpg,5,YES,YES,NO,NO,YES,YES,NO,102529
+maserati,sedan,quattroporte,2016,http://www.cars-data.com/pictures/thumbs/350px/maserati/maserati-quattroporte_3623_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,127900
+mazda,hatchback,3,2016,http://www.cars-data.com/pictures/thumbs/350px/ds/ds-3_3554_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,17890
+mazda,hatchback,3,2016,http://www.cars-data.com/pictures/thumbs/350px/mazda/mazda-3_3852_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,36200
+mazda,sedan,3-sedan,2016,http://www.cars-data.com/pictures/thumbs/350px/mazda/mazda-3-sedan_3853_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,31400
+mercedes benz,convertible,amg-gt-roadster,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-amg-gt-roadster_3866_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,222339
+mercedes benz,convertible,c-class-cabriolet,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-c-class-cabriolet_3872_1.jpg,4,YES,YES,NO,YES,YES,YES,NO,59804
+mercedes benz,sedan,cla-class-coupe,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-cla-class-coupe_3875_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,43523
+mercedes benz,wagon,cla-class-shooting-brake,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-cla-class-shooting-brake_3877_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,44360
+mercedes benz,sedan,e-class,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-e-class_3883_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,71658
+mercedes benz,wagon,e-class-estate,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-e-class-estate_3886_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,75627
+mercedes benz,suv,glc-class-coupe,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-glc-class-coupe_3894_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,84131
+mercedes benz,convertible,s-class-cabriolet,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-s-class-cabriolet_3900_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,330033
+mercedes benz,convertible,sl-class,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-sl-class_3901_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,319000
+mercedes benz,convertible,slc-class,2016,http://www.cars-data.com/pictures/thumbs/350px/mercedes/mercedes-benz-slc-class_3902_1.jpg,2,YES,YES,NO,YES,YES,YES,NO,79683
+mini,convertible,cabrio,2016,http://www.cars-data.com/pictures/thumbs/350px/mini/mini-cabrio_3461_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,39490
+mitsubishi,suv,asx,2016,http://www.cars-data.com/pictures/thumbs/350px/mitsubishi/mitsubishi-asx_3628_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,33490
+mitsubishi,hatchback,space-star,2016,http://www.cars-data.com/pictures/thumbs/350px/mitsubishi/mitsubishi-space-star_3465_1.jpg,5,YES,YES,NO,NO,YES,YES,NO,15790
+nissan,coupe,gt-r,2016,http://www.cars-data.com/pictures/thumbs/350px/nissan/nissan-gt-r_3925_1.jpg,2,YES,YES,YES,NO,YES,YES,NO,176900
+opel,wagon,astra-sports-tourer,2016,http://www.cars-data.com/pictures/thumbs/350px/opel/opel-astra-sports-tourer_3949_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,34174
+opel,suv,mokka-x,2016,http://www.cars-data.com/pictures/thumbs/350px/opel/opel-mokka-x_3957_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,37445
+opel,mpv,zafira,2016,http://www.cars-data.com/pictures/thumbs/350px/opel/opel-zafira_3960_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,44645
+peugeot,suv,2008,2016,http://www.cars-data.com/pictures/thumbs/350px/peugeot/peugeot-2008_3961_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,28360
+peugeot,mpv,3008,2016,http://www.cars-data.com/pictures/thumbs/350px/peugeot/peugeot-3008_3962_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,49240
+peugeot,lcv,expert-combi,2016,http://www.cars-data.com/pictures/thumbs/350px/peugeot/peugeot-expert-combi_3979_1.jpg,5,YES,NO,NO,NO,NO,NO,NO,41791
+peugeot,lcv,traveller,2016,http://www.cars-data.com/pictures/thumbs/350px/peugeot/peugeot-traveller_3980_1.jpg,6,YES,YES,YES,NO,YES,YES,NO,70804
+porsche,convertible,718-boxster,2016,http://www.cars-data.com/pictures/thumbs/350px/porsche/porsche-718-boxster_3635_1.jpg,2,YES,YES,YES,YES,YES,YES,NO,84725
+porsche,coupe,718-cayman,2016,http://www.cars-data.com/pictures/thumbs/350px/porsche/porsche-718-cayman_3634_1.jpg,2,YES,YES,YES,YES,YES,YES,YES,82625
+porsche,hatchback,panamera,2016,http://www.cars-data.com/pictures/thumbs/350px/porsche/porsche-panamera_3984_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,146855
+renault,hatchback,clio,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-clio_3995_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,23300
+renault,wagon,clio-estate,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-clio-estate_3997_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,24300
+renault,mpv,grand-scenic,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-grand-scenic_4007_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,40520
+renault,hatchback,megane,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-megane_3512_1.jpg,5,YES,YES,NO,NO,YES,YES,NO,20290
+renault,wagon,megane-estate,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-megane-estate_4003_1.jpg,5,YES,YES,NO,NO,YES,YES,NO,21540
+renault,mpv,scenic,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-scenic_4008_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,39320
+renault,sedan,talisman,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-talisman_3513_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,46790
+renault,wagon,talisman-estate,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-talisman-estate_3514_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,47990
+renault,hatchback,zoe,2016,http://www.cars-data.com/pictures/thumbs/350px/renault/renault-zoe_4010_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,37700
+rolls royce,convertible,dawn,2016,http://www.cars-data.com/pictures/thumbs/350px/rolls-royce/rolls-royce-dawn_3646_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,425000
+seat,suv,ateca,2016,http://www.cars-data.com/pictures/thumbs/350px/seat/seat-ateca_3652_1.jpg,5,YES,YES,YES,NO,YES,YES,NO,49310
+skoda,hatchback,citigo,2016,http://www.cars-data.com/pictures/thumbs/350px/skoda/skoda-citigo_3656_1.jpg,4,YES,YES,YES,NO,YES,YES,NO,14820
+smart,convertible,fortwo-cabrio,2016,http://www.cars-data.com/pictures/thumbs/350px/smart/smart-fortwo-cabrio_3528_1.jpg,2,YES,NO,YES,YES,YES,NO,YES,16995
+ssangyong,suv,ssangyong-xlv,2016,http://www.cars-data.com/pictures/thumbs/350px/ssangyong/ssangyong-xlv_4032_1.jpg,5,YES,YES,NO,YES,YES,YES,YES,46775
+suzuki,hatchback,baleno,2016,http://www.cars-data.com/pictures/thumbs/350px/suzuki/suzuki-baleno_4042_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,21709
+suzuki,hatchback,ignis,2016,http://www.cars-data.com/pictures/thumbs/350px/suzuki/suzuki-ignis_4044_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,19249
+suzuki,suv,s-cross,2016,http://www.cars-data.com/pictures/thumbs/350px/suzuki/suzuki-s-cross_4046_1.jpg,5,YES,YES,YES,YES,YES,YES,YES,32959
+tesla,hatchback,model-s,2016,http://www.cars-data.com/pictures/thumbs/350px/tesla/tesla-model-s_3661_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,154500
+tesla,suv,model-x,2016,http://www.cars-data.com/pictures/thumbs/350px/tesla/tesla-model-x_3532_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,163750
+toyota,suv,c-hr,2016,http://www.cars-data.com/pictures/thumbs/350px/toyota/toyota-c-hr_4053_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,35495
+toyota,coupe,gt86,2016,http://www.cars-data.com/pictures/thumbs/350px/toyota/toyota-gt86_4070_1.jpg,4,YES,YES,NO,YES,YES,YES,NO,51995
+toyota,pick-up,hilux-dubbele-cabine,2016,http://www.cars-data.com/pictures/thumbs/350px/toyota/toyota-hilux-dubbele-cabine_4071_1.jpg,5,YES,YES,NO,NO,YES,YES,NO,73695
+toyota,hatchback,prius,2016,http://www.cars-data.com/pictures/thumbs/350px/toyota/toyota-prius_3537_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,32990
+toyota,minivan,proace-shuttle,2016,http://www.cars-data.com/pictures/thumbs/350px/toyota/toyota-proace-shuttle_4079_1.jpg,9,YES,YES,NO,NO,YES,YES,NO,40295
+toyota,suv,rav4,2016,http://www.cars-data.com/pictures/thumbs/350px/toyota/toyota-rav4_3538_1.jpg,5,YES,YES,NO,YES,YES,YES,NO,44085
+volkswagen,pick-up,amarok-dubbele-cabine,2016,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-amarok-dubbele-cabine_3663_1.jpg,5,YES,YES,YES,NO,YES,NO,NO,90288
+volkswagen,convertible,beetle-cabrio,2016,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-beetle-cabrio_3665_1.jpg,4,YES,YES,YES,NO,YES,NO,NO,40750
+volkswagen,hatchback,beetle-coupe,2016,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-beetle-coupe_3664_1.jpg,4,YES,YES,YES,NO,YES,NO,NO,40120
+volkswagen,hatchback,e-up,2016,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-e-up_4107_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,26510
+volkswagen,suv,tiguan,2016,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-tiguan_3542_1.jpg,5,YES,YES,YES,YES,YES,NO,NO,28790
+volkswagen,hatchback,up,2016,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-up_4106_1.jpg,4,NO,NO,NO,NO,YES,NO,NO,10690
+volkswagen,hatchback,up,2016,http://www.cars-data.com/pictures/thumbs/350px/volkswagen/volkswagen-up_4109_1.jpg,4,YES,YES,YES,YES,YES,YES,NO,15790
+volvo,sedan,s90,2016,http://www.cars-data.com/pictures/thumbs/350px/volvo/volvo-s90_3546_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,49995
+volvo,hatchback,v40,2016,http://www.cars-data.com/pictures/thumbs/350px/volvo/volvo-v40_3547_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,25995
+volvo,hatchback,v40-cross-country,2016,http://www.cars-data.com/pictures/thumbs/350px/volvo/volvo-v40-cross-country_3548_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,32295
+volvo,wagon,v90,2016,http://www.cars-data.com/pictures/thumbs/350px/volvo/volvo-v90_3550_1.jpg,5,YES,YES,YES,YES,YES,YES,NO,52995
