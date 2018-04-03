@@ -1,0 +1,2 @@
+CREATE DATABASE  IF NOT EXISTS `car_rental` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `car_rental`;
