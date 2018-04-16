@@ -30,7 +30,6 @@ router.get('/', ensureAuthenticated, (req, res) => {
         office_rev.push(result[0][i].Oct);
         office_rev.push(result[0][i].Nov);
         office_rev.push(result[0][i].Dec);
-        console.log(office_rev);
         break;
       }
     }
