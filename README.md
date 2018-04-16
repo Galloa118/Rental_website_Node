@@ -2,6 +2,8 @@
 
 Express.js + Node.js + Handlebars.js + MySQL + Passport.js
 
+Developed by Hana Do for Group 7 IT 440
+
 ![img](https://github.com/hana-do/car-rental-website/blob/master/documentation/screenshots/login.PNG)
 
 ![img](https://github.com/hana-do/car-rental-website/blob/master/documentation/screenshots/no%20user%20found.PNG)
